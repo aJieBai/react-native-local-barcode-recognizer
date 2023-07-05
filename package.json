@@ -1,15 +1,15 @@
 {
-  "name": "react-native-local-barcode-recognizer",
+  "name": "my-react-native-local-barcode-recognizer",
   "version": "0.0.2",
   "description": "The plugin to recognize the barcode from local image for React Native.",
   "author": "Janus J K Lu <januslo6211@gmail.com>",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/januslo/react-native-local-barcode-recognizer"
+    "url": "https://github.com/aJieBai/react-native-local-barcode-recognizer"
   },
   "bugs": {
-    "url": "https://github.com/januslo/react-native-local-barcode-recognizer/issues"
+    "url": "https://github.com/aJieBai/react-native-local-barcode-recognizer/issues"
   },
   "main": "index.js",
   "scripts": {
